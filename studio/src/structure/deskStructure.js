@@ -8,7 +8,7 @@ import {
 import IframePreview from '../previews/IframePreview'
 
 // Web preview configuration
-const remoteURL = 'https://sanity-gatsby-blog-web-c115banj.netlify.app'
+const remoteURL = 'https://blog.praffulindirala.com'
 const localURL = 'http://localhost:8000'
 const previewURL =
   window.location.hostname === 'localhost' ? localURL : remoteURL
