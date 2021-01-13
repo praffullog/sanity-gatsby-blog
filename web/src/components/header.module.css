@@ -4,6 +4,7 @@
 .root {
   position: relative;
   z-index: 100;
+  background-color: black;
 }
 
 .wrapper {
@@ -12,6 +13,7 @@
   max-width: 960px;
   padding: 1em;
   display: flex;
+  text-align: center;
 
   @media (--media-min-small) {
     padding: 1.5em 1.5em;
