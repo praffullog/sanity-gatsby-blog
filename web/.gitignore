@@ -69,3 +69,6 @@ yarn.lock
 
 # Secrets
 .env.development
+
+
+package-lock.json
